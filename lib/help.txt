@@ -1,0 +1,6 @@
+Usage: truefx-pricefeed [options]
+
+
+  Options:
+       -h, --help     Shows this help
+       -v, --verbose  Logs prices
