@@ -15,4 +15,3 @@ pricefeed.request((error, response, body) => {
   console.log(body);
 });
 
-process.exit(0);
